@@ -21,7 +21,7 @@ A web-based **Invoice Generation** tool built with **React, Tailwind CSS, and Vi
 ## 📸 Screenshots  
 
 ### 📌 Home Page  
-![Home Page](./images/homepage.png)  
+![Home Page](https://github.com/ItsMeAreebaAmjad/InvoiceGenerationApp-React/blob/main/image1.png)  
 
 ### 📌 Invoice Form  
 ![Invoice Form](./images/invoice-form.png)  
