@@ -28,6 +28,7 @@ A web-based **Invoice Generation** tool built with **React, Tailwind CSS, and Vi
 
 ### 📌 Generated Invoice PDF  
 ![Generated Invoice](./images/generated-invoice.png)  
+![Generated Invoice Part2](https://github.com/ItsMeAreebaAmjad/InvoiceGenerationApp-React/blob/main/image3.png)
 
 ## 📂 Project Setup  
 
