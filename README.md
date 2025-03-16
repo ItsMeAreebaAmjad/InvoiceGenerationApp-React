@@ -36,5 +36,5 @@ A web-based **Invoice Generation** tool built with **React, Tailwind CSS, and Vi
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/invoice-generator.git
+git clone https://github.com/ItsMeAreebaAmjad/InvoiceGenerationApp-React
 cd invoice-generator
